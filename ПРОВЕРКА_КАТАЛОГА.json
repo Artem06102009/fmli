@@ -1,0 +1,679 @@
+{
+  "total": 67,
+  "initial": 38,
+  "new": 29,
+  "books_bytes": 339974329,
+  "flat": true,
+  "entries": [
+    {
+      "id": "aitmatov",
+      "title": "И дольше века длится день",
+      "file": "aitmatov.pdf",
+      "cover": "aitmatov.jpg",
+      "reader": "aitmatov.pdf",
+      "status": "existing",
+      "size_bytes": 1767920,
+      "note": null
+    },
+    {
+      "id": "moriarty",
+      "title": "Большая маленькая ложь",
+      "file": "moriarty.pdf",
+      "cover": "moriarty.jpg",
+      "reader": "moriarty.pdf",
+      "status": "existing",
+      "size_bytes": 2088546,
+      "note": null
+    },
+    {
+      "id": "yakhina",
+      "title": "Зулейха открывает глаза",
+      "file": "yakhina.pdf",
+      "cover": "yakhina.jpg",
+      "reader": "yakhina.pdf",
+      "status": "existing",
+      "size_bytes": 680170,
+      "note": null
+    },
+    {
+      "id": "hugo",
+      "title": "Отверженные",
+      "file": "hugo.pdf",
+      "cover": "hugo.jpg",
+      "reader": "hugo.pdf",
+      "status": "existing",
+      "size_bytes": 5765107,
+      "note": null
+    },
+    {
+      "id": "mitchell",
+      "title": "Утопия-авеню",
+      "file": "mitchell.pdf",
+      "cover": "mitchell.jpg",
+      "reader": "mitchell.pdf",
+      "status": "existing",
+      "size_bytes": 5337901,
+      "note": "В предоставленном PDF 27 страниц; возможно, только начало произведения."
+    },
+    {
+      "id": "kinney",
+      "title": "Дневник слабака",
+      "file": "kinney.pdf",
+      "cover": "kinney.jpg",
+      "reader": "kinney.pdf",
+      "status": "existing",
+      "size_bytes": 15195491,
+      "note": null
+    },
+    {
+      "id": "dostoevsky",
+      "title": "Подросток",
+      "file": "dostoevsky.pdf",
+      "cover": "dostoevsky.jpg",
+      "reader": "dostoevsky.pdf",
+      "status": "existing",
+      "size_bytes": 2409706,
+      "note": null
+    },
+    {
+      "id": "kaverin",
+      "title": "Открытая книга",
+      "file": "kaverin.pdf",
+      "cover": "kaverin.jpg",
+      "reader": "kaverin.pdf",
+      "status": "existing",
+      "size_bytes": 3199522,
+      "note": null
+    },
+    {
+      "id": "banner",
+      "title": "Дом на краю ночи",
+      "file": "banner.pdf",
+      "cover": "banner.jpg",
+      "reader": "banner.pdf",
+      "status": "existing",
+      "size_bytes": 1866583,
+      "note": null
+    },
+    {
+      "id": "kuvaev",
+      "title": "Территория",
+      "file": "kuvaev.pdf",
+      "cover": "kuvaev.jpg",
+      "reader": "kuvaev.pdf",
+      "status": "existing",
+      "size_bytes": 1768465,
+      "note": null
+    },
+    {
+      "id": "kundera",
+      "title": "Невыносимая лёгкость бытия",
+      "file": "kundera.fb2",
+      "cover": "kundera.jpg",
+      "reader": "kundera.html",
+      "status": "existing",
+      "size_bytes": 931617,
+      "note": null
+    },
+    {
+      "id": "lisa",
+      "title": "Снежный цветок и заветный веер",
+      "file": "lisa.pdf",
+      "cover": "lisa.jpg",
+      "reader": "lisa.pdf",
+      "status": "existing",
+      "size_bytes": 1337998,
+      "note": null
+    },
+    {
+      "id": "bulgakov",
+      "title": "Записки юного врача",
+      "file": "bulgakov.pdf",
+      "cover": "bulgakov.jpg",
+      "reader": "bulgakov.pdf",
+      "status": "existing",
+      "size_bytes": 513624,
+      "note": null
+    },
+    {
+      "id": "petrosyan",
+      "title": "Дом, в котором…",
+      "file": "petrosyan.fb2",
+      "cover": "petrosyan.jpg",
+      "reader": "petrosyan.html",
+      "status": "existing",
+      "size_bytes": 1687922,
+      "note": null
+    },
+    {
+      "id": "parr",
+      "title": "Вафельное сердце",
+      "file": "parr.pdf",
+      "cover": "parr.jpg",
+      "reader": "parr.pdf",
+      "status": "existing",
+      "size_bytes": 6699777,
+      "note": null
+    },
+    {
+      "id": "zusak",
+      "title": "Книжный вор",
+      "file": "zusak.pdf",
+      "cover": "zusak.jpg",
+      "reader": "zusak.pdf",
+      "status": "existing",
+      "size_bytes": 4900187,
+      "note": null
+    },
+    {
+      "id": "abgaryan",
+      "title": "Манюня",
+      "file": "abgaryan.pdf",
+      "cover": "abgaryan.jpg",
+      "reader": "abgaryan.pdf",
+      "status": "existing",
+      "size_bytes": 4065379,
+      "note": null
+    },
+    {
+      "id": "lee",
+      "title": "Убить пересмешника",
+      "file": "lee.pdf",
+      "cover": "lee.jpg",
+      "reader": "lee.pdf",
+      "status": "existing",
+      "size_bytes": 1412851,
+      "note": null
+    },
+    {
+      "id": "pushkin",
+      "title": "Письма к жене",
+      "file": "pushkin.epub",
+      "cover": "pushkin.jpg",
+      "reader": "pushkin.html",
+      "status": "existing",
+      "size_bytes": 1203913,
+      "note": null
+    },
+    {
+      "id": "knight",
+      "title": "Смотри, что у тебя внутри",
+      "file": "knight.pdf",
+      "cover": "knight.jpg",
+      "reader": "knight.pdf",
+      "status": "existing",
+      "size_bytes": 2377164,
+      "note": null
+    },
+    {
+      "id": "efishov",
+      "title": "Таинственные страницы. Занимательная криптография",
+      "file": "efishov.pdf",
+      "cover": "efishov.jpg",
+      "reader": "efishov.pdf",
+      "status": "existing",
+      "size_bytes": 3688129,
+      "note": null
+    },
+    {
+      "id": "physics_algo",
+      "title": "Алгоритмы решения задач физики",
+      "file": "physics_algo.pdf",
+      "cover": "physics_algo.jpg",
+      "reader": "physics_algo.pdf",
+      "status": "existing",
+      "size_bytes": 15240830,
+      "note": null
+    },
+    {
+      "id": "newton",
+      "title": "Математические начала натуральной философии",
+      "file": "newton.pdf",
+      "cover": "newton.jpg",
+      "reader": "newton.pdf",
+      "status": "existing",
+      "size_bytes": 31164370,
+      "note": null
+    },
+    {
+      "id": "krauss",
+      "title": "Страх физики",
+      "file": "krauss.pdf",
+      "cover": "krauss.jpg",
+      "reader": "krauss.pdf",
+      "status": "existing",
+      "size_bytes": 12914752,
+      "note": null
+    },
+    {
+      "id": "nikitin",
+      "title": "Происхождение жизни. От туманности до клетки",
+      "file": "nikitin.pdf",
+      "cover": "nikitin.jpg",
+      "reader": "nikitin.pdf",
+      "status": "existing",
+      "size_bytes": 29690876,
+      "note": null
+    },
+    {
+      "id": "kaku",
+      "title": "Физика невозможного",
+      "file": "kaku.pdf",
+      "cover": "kaku.jpg",
+      "reader": "kaku.pdf",
+      "status": "existing",
+      "size_bytes": 1664039,
+      "note": null
+    },
+    {
+      "id": "mendelsund",
+      "title": "Что мы видим, когда читаем",
+      "file": "mendelsund.pdf",
+      "cover": "mendelsund.jpg",
+      "reader": "mendelsund.pdf",
+      "status": "existing",
+      "size_bytes": 20932979,
+      "note": null
+    },
+    {
+      "id": "kleinman",
+      "title": "Философия. Краткий курс",
+      "file": "kleinman.pdf",
+      "cover": "kleinman.jpg",
+      "reader": "kleinman.pdf",
+      "status": "existing",
+      "size_bytes": 319814,
+      "note": "Ознакомительный фрагмент, не полный текст книги."
+    },
+    {
+      "id": "physics_tables",
+      "title": "Физика в таблицах. Законы сохранения",
+      "file": "physics_tables.pdf",
+      "cover": "physics_tables.jpg",
+      "reader": "physics_tables.pdf",
+      "status": "existing",
+      "size_bytes": 1430197,
+      "note": null
+    },
+    {
+      "id": "chang",
+      "title": "Как устроена экономика",
+      "file": "chang.pdf",
+      "cover": "chang.jpg",
+      "reader": "chang.pdf",
+      "status": "existing",
+      "size_bytes": 2773361,
+      "note": null
+    },
+    {
+      "id": "zykova",
+      "title": "Химические уравнения. Тренажёр для подготовки к ОГЭ",
+      "file": "zykova.pdf",
+      "cover": "zykova.jpg",
+      "reader": "zykova.pdf",
+      "status": "existing",
+      "size_bytes": 14627882,
+      "note": null
+    },
+    {
+      "id": "eggen",
+      "title": "Декоратор. Книга вещности",
+      "file": "eggen.pdf",
+      "cover": "eggen.jpg",
+      "reader": "eggen.pdf",
+      "status": "existing",
+      "size_bytes": 1144054,
+      "note": null
+    },
+    {
+      "id": "frank",
+      "title": "Дневник Анны Франк",
+      "file": "frank.pdf",
+      "cover": "frank.jpg",
+      "reader": "frank.pdf",
+      "status": "existing",
+      "size_bytes": 398870,
+      "note": "Краткая публикация (18 страниц), а не полное стандартное издание дневника."
+    },
+    {
+      "id": "backman",
+      "title": "Медвежий угол",
+      "file": "backman.pdf",
+      "cover": "backman.jpg",
+      "reader": "backman.pdf",
+      "status": "existing",
+      "size_bytes": 2466133,
+      "note": null
+    },
+    {
+      "id": "eberg",
+      "title": "Кошачий чердак",
+      "file": "eberg.pdf",
+      "cover": "eberg.jpg",
+      "reader": "eberg.pdf",
+      "status": "existing",
+      "size_bytes": 44178807,
+      "note": null
+    },
+    {
+      "id": "safarli",
+      "title": "Я хочу домой",
+      "file": "safarli.pdf",
+      "cover": "safarli.jpg",
+      "reader": "safarli.pdf",
+      "status": "existing",
+      "size_bytes": 407727,
+      "note": "Ознакомительный фрагмент, не полный текст книги."
+    },
+    {
+      "id": "komi",
+      "title": "Историческая хроника. Республика Коми с древнейших времён",
+      "file": "komi.pdf",
+      "cover": "komi.jpg",
+      "reader": "komi.pdf",
+      "status": "existing",
+      "size_bytes": 3467878,
+      "note": null
+    },
+    {
+      "id": "kaspersky",
+      "title": "Выжить в цифровом мире для родителей",
+      "file": "kaspersky.pdf",
+      "cover": "kaspersky.jpg",
+      "reader": "kaspersky.pdf",
+      "status": "existing",
+      "size_bytes": 10687159,
+      "note": null
+    },
+    {
+      "id": "asimov_stone",
+      "title": "Говорящий камень",
+      "file": "asimov_stone.fb2",
+      "cover": "asimov_stone.jpg",
+      "reader": "asimov_stone.html",
+      "status": "new",
+      "size_bytes": 73921,
+      "note": null
+    },
+    {
+      "id": "asimov_eternity",
+      "title": "Конец Вечности",
+      "file": "asimov_eternity.fb2",
+      "cover": "asimov_eternity.jpg",
+      "reader": "asimov_eternity.html",
+      "status": "new",
+      "size_bytes": 1221829,
+      "note": null
+    },
+    {
+      "id": "asimov_robot",
+      "title": "Я, робот",
+      "file": "asimov_robot.fb2",
+      "cover": "asimov_robot.jpg",
+      "reader": "asimov_robot.html",
+      "status": "new",
+      "size_bytes": 1953059,
+      "note": null
+    },
+    {
+      "id": "backman_anxious",
+      "title": "Тревожные люди",
+      "file": "backman_anxious.pdf",
+      "cover": "backman_anxious.jpg",
+      "reader": "backman_anxious.pdf",
+      "status": "new",
+      "size_bytes": 1431375,
+      "note": null
+    },
+    {
+      "id": "burgess_orange",
+      "title": "Заводной апельсин",
+      "file": "burgess_orange.fb2",
+      "cover": "burgess_orange.jpg",
+      "reader": "burgess_orange.html",
+      "status": "new",
+      "size_bytes": 885458,
+      "note": null
+    },
+    {
+      "id": "bradbury_wine",
+      "title": "Вино из одуванчиков",
+      "file": "bradbury_wine.fb2",
+      "cover": "bradbury_wine.jpg",
+      "reader": "bradbury_wine.html",
+      "status": "new",
+      "size_bytes": 1807307,
+      "note": null
+    },
+    {
+      "id": "setterfield_bellman",
+      "title": "Беллмен и Блэк, или Незнакомец в чёрном",
+      "file": "setterfield_bellman.pdf",
+      "cover": "setterfield_bellman.jpg",
+      "reader": "setterfield_bellman.pdf",
+      "status": "new",
+      "size_bytes": 1821485,
+      "note": null
+    },
+    {
+      "id": "ferrante_friend",
+      "title": "Моя гениальная подруга",
+      "file": "ferrante_friend.docx",
+      "cover": "ferrante_friend.jpg",
+      "reader": "ferrante_friend.html",
+      "status": "new",
+      "size_bytes": 39058,
+      "note": "Доступный файл содержит только 11 страниц. Требуется полная версия."
+    },
+    {
+      "id": "king_carrie",
+      "title": "Кэрри",
+      "file": "king_carrie.fb2",
+      "cover": "king_carrie.jpg",
+      "reader": "king_carrie.html",
+      "status": "new",
+      "size_bytes": 764780,
+      "note": null
+    },
+    {
+      "id": "lem_solaris_stars",
+      "title": "Солярис. Возвращение со звёзд",
+      "file": "lem_solaris_stars.fb2",
+      "cover": "lem_solaris_stars.jpg",
+      "reader": "lem_solaris_stars.html",
+      "status": "new",
+      "size_bytes": 3285031,
+      "note": "В одном файле два произведения: «Солярис» и «Возвращение со звёзд»."
+    },
+    {
+      "id": "marquez_solitude",
+      "title": "Сто лет одиночества",
+      "file": "marquez_solitude.fb2",
+      "cover": "marquez_solitude.jpg",
+      "reader": "marquez_solitude.html",
+      "status": "new",
+      "size_bytes": 818682,
+      "note": null
+    },
+    {
+      "id": "orwell_farm",
+      "title": "Скотный двор",
+      "file": "orwell_farm.pdf",
+      "cover": "orwell_farm.jpg",
+      "reader": "orwell_farm.pdf",
+      "status": "new",
+      "size_bytes": 648536,
+      "note": null
+    },
+    {
+      "id": "palacio_wonder",
+      "title": "Чудо",
+      "file": "palacio_wonder.pdf",
+      "cover": "palacio_wonder.jpg",
+      "reader": "palacio_wonder.pdf",
+      "status": "new",
+      "size_bytes": 388695,
+      "note": null
+    },
+    {
+      "id": "remarque_arch",
+      "title": "Триумфальная арка",
+      "file": "remarque_arch.pdf",
+      "cover": "remarque_arch.jpg",
+      "reader": "remarque_arch.pdf",
+      "status": "new",
+      "size_bytes": 2383285,
+      "note": null
+    },
+    {
+      "id": "roberts_shantaram",
+      "title": "Шантарам",
+      "file": "roberts_shantaram.fb2",
+      "cover": "roberts_shantaram.jpg",
+      "reader": "roberts_shantaram.html",
+      "status": "new",
+      "size_bytes": 3985105,
+      "note": null
+    },
+    {
+      "id": "roberts_shadow",
+      "title": "Тень горы (Шантарам — 2)",
+      "file": "roberts_shadow.pdf",
+      "cover": "roberts_shadow.jpg",
+      "reader": "roberts_shadow.pdf",
+      "status": "new",
+      "size_bytes": 3905617,
+      "note": null
+    },
+    {
+      "id": "setterfield_thirteen",
+      "title": "Тринадцатая сказка",
+      "file": "setterfield_thirteen.pdf",
+      "cover": "setterfield_thirteen.jpg",
+      "reader": "setterfield_thirteen.pdf",
+      "status": "new",
+      "size_bytes": 2308122,
+      "note": null
+    },
+    {
+      "id": "steinbeck_eden",
+      "title": "К востоку от Эдема",
+      "file": "steinbeck_eden.fb2",
+      "cover": "steinbeck_eden.jpg",
+      "reader": "steinbeck_eden.html",
+      "status": "new",
+      "size_bytes": 2786872,
+      "note": null
+    },
+    {
+      "id": "steinbeck_mice",
+      "title": "О мышах и людях",
+      "file": "steinbeck_mice.fb2",
+      "cover": "steinbeck_mice.jpg",
+      "reader": "steinbeck_mice.html",
+      "status": "new",
+      "size_bytes": 391016,
+      "note": null
+    },
+    {
+      "id": "stepnova_lazar",
+      "title": "Женщины Лазаря",
+      "file": "stepnova_lazar.fb2",
+      "cover": "stepnova_lazar.jpg",
+      "reader": "stepnova_lazar.html",
+      "status": "new",
+      "size_bytes": 1479969,
+      "note": null
+    },
+    {
+      "id": "sweeney_nest",
+      "title": "Гнездо",
+      "file": "sweeney_nest.fb2",
+      "cover": "sweeney_nest.jpg",
+      "reader": "sweeney_nest.html",
+      "status": "new",
+      "size_bytes": 1652381,
+      "note": null
+    },
+    {
+      "id": "fowles_collector",
+      "title": "Коллекционер",
+      "file": "fowles_collector.pdf",
+      "cover": "fowles_collector.jpg",
+      "reader": "fowles_collector.pdf",
+      "status": "new",
+      "size_bytes": 1645777,
+      "note": null
+    },
+    {
+      "id": "fenelon_telemachus",
+      "title": "Телемак",
+      "file": "fenelon_telemachus.pdf",
+      "cover": "fenelon_telemachus.jpg",
+      "reader": "fenelon_telemachus.pdf",
+      "status": "new",
+      "size_bytes": 1436216,
+      "note": null
+    },
+    {
+      "id": "yakhina_train",
+      "title": "Эшелон на Самарканд",
+      "file": "yakhina_train.fb2",
+      "cover": "yakhina_train.jpg",
+      "reader": "yakhina_train.html",
+      "status": "new",
+      "size_bytes": 2043324,
+      "note": null
+    },
+    {
+      "id": "acemoglu_nations",
+      "title": "Почему одни страны богатые, а другие бедные",
+      "file": "acemoglu_nations.rtf",
+      "cover": "acemoglu_nations.jpg",
+      "reader": "acemoglu_nations.html",
+      "status": "new",
+      "size_bytes": 10754796,
+      "note": null
+    },
+    {
+      "id": "strugatsky_monday",
+      "title": "Понедельник начинается в субботу",
+      "file": "strugatsky_monday.fb2",
+      "cover": "strugatsky_monday.jpg",
+      "reader": "strugatsky_monday.html",
+      "status": "new",
+      "size_bytes": 6213627,
+      "note": null
+    },
+    {
+      "id": "strugatsky_roadside",
+      "title": "Пикник на обочине",
+      "file": "strugatsky_roadside.fb2",
+      "cover": "strugatsky_roadside.jpg",
+      "reader": "strugatsky_roadside.html",
+      "status": "new",
+      "size_bytes": 1300815,
+      "note": null
+    },
+    {
+      "id": "yakhina_eisen",
+      "title": "Эйзен",
+      "file": "yakhina_eisen.pdf",
+      "cover": "yakhina_eisen.jpg",
+      "reader": "yakhina_eisen.pdf",
+      "status": "new",
+      "size_bytes": 2274243,
+      "note": "На обложке издания указано 18+."
+    },
+    {
+      "id": "tikhon_saints",
+      "title": "«Несвятые святые» и другие рассказы",
+      "file": "tikhon_saints.pdf",
+      "cover": "tikhon_saints.jpg",
+      "reader": "tikhon_saints.pdf",
+      "status": "new",
+      "size_bytes": 17866248,
+      "note": null
+    }
+  ]
+}
