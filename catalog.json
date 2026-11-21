@@ -6,9 +6,9 @@
     "category": "Современная проза",
     "format": "PDF",
     "note": "Предоставленный PDF — ознакомительная версия: в конце есть предложение купить полную книгу.",
-    "file": "shaw_byzantium.pdf",
+    "file": "вечер в византии.pdf",
     "cover": "shaw_byzantium.jpg",
-    "reader": "shaw_byzantium.pdf",
+    "reader": "вечер в византии.pdf",
     "pages": 90
   },
   {
@@ -17,9 +17,9 @@
     "author": "Тамара Петкевич",
     "category": "Мемуары",
     "format": "PDF",
-    "file": "petkevich_life.pdf",
+    "file": "жизнь сапожок непарный.pdf",
     "cover": "petkevich_life.jpg",
-    "reader": "petkevich_life.pdf",
+    "reader": "жизнь сапожок непарный.pdf",
     "pages": 522
   },
   {
@@ -28,7 +28,7 @@
     "author": "Кристин Хармель",
     "category": "Историческая проза",
     "format": "FB2",
-    "file": "harmel_cinnamon.fb2",
+    "file": "Кристин Хармель – Забвение пахнет корицей.fb2",
     "cover": "harmel_cinnamon.jpg",
     "pages": null,
     "reader": "harmel_cinnamon.html",
@@ -40,7 +40,7 @@
     "author": "Катя Качур",
     "category": "Современная проза",
     "format": "TXT",
-    "file": "kachur_angel.txt",
+    "file": "zhelchny_Angel.txt",
     "cover": "kachur_angel.jpg",
     "pages": null,
     "reader": "kachur_angel.html"
@@ -51,7 +51,7 @@
     "author": "Джаннетт Уоллс",
     "category": "Мемуары",
     "format": "TXT",
-    "file": "walls_glass.txt",
+    "file": "zamok-iz-stekla.txt",
     "cover": "walls_glass.jpg",
     "pages": null,
     "reader": "walls_glass.html"
@@ -62,9 +62,9 @@
     "author": "Ромен Гари",
     "category": "Зарубежная классика",
     "format": "PDF",
-    "file": "gary_promise.pdf",
+    "file": "Gary_Obeshanie_na_rassvete.pdf",
     "cover": "gary_promise.jpg",
-    "reader": "gary_promise.pdf",
+    "reader": "Gary_Obeshanie_na_rassvete.pdf",
     "pages": 133
   },
   {
@@ -73,7 +73,7 @@
     "author": "Фредрик Бакман",
     "category": "Современная проза",
     "format": "EPUB",
-    "file": "backman_britt.epub",
+    "file": "Здесь_была_Бритт_Мари_34115682.epub",
     "cover": "backman_britt.jpg",
     "pages": null,
     "reader": "backman_britt.html",
@@ -85,9 +85,9 @@
     "author": "Мишель Бюсси",
     "category": "Триллеры",
     "format": "PDF",
-    "file": "bussi_lilies.pdf",
+    "file": "chernye-kuvshinki-mishel-bjussi.pdf",
     "cover": "bussi_lilies.jpg",
-    "reader": "bussi_lilies.pdf",
+    "reader": "chernye-kuvshinki-mishel-bjussi.pdf",
     "pages": 102
   },
   {
@@ -96,9 +96,9 @@
     "author": "Стивен Кинг",
     "category": "Триллеры",
     "format": "PDF",
-    "file": "king_shining.pdf",
+    "file": "siianiie_-_stivien_kingh.pdf",
     "cover": "king_shining.jpg",
-    "reader": "king_shining.pdf",
+    "reader": "siianiie_-_stivien_kingh.pdf",
     "pages": 266
   },
   {
@@ -109,9 +109,9 @@
     "format": "PDF",
     "age": "18+",
     "note": "На обложке предоставленного издания стоит отметка 18+.",
-    "file": "tartt_goldfinch.pdf",
+    "file": "tartt_d._shegol.a4.pdf",
     "cover": "tartt_goldfinch.jpg",
-    "reader": "tartt_goldfinch.pdf",
+    "reader": "tartt_d._shegol.a4.pdf",
     "pages": 496
   },
   {
@@ -120,7 +120,7 @@
     "author": "Фредрик Бакман",
     "category": "Современная проза",
     "format": "TXT",
-    "file": "backman_ove.txt",
+    "file": "vtoraia-zizn-uve.txt",
     "cover": "backman_ove.jpg",
     "pages": null,
     "reader": "backman_ove.html"
@@ -131,7 +131,7 @@
     "author": "Кэтрин Стокетт",
     "category": "Историческая проза",
     "format": "TXT",
-    "file": "stockett_help.txt",
+    "file": "prisluga.txt",
     "cover": "stockett_help.jpg",
     "pages": null,
     "reader": "stockett_help.html"
